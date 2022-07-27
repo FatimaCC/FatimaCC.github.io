@@ -10,8 +10,8 @@
     font-family: Arial, Helvetica, sans-serif;
     font-size: 22px;
     padding-top: 45px;
-    color: hsl(0, 0%, 71%);
-    background-color: hsl(0, 0%, 11%);
+    color: hsl(216deg 39% 60%);
+    background-color: #d1c8ca;
     /* background-color: gree; */
     opacity: 0.9;
     text-align: center;
@@ -73,7 +73,7 @@
   .background-image {
     width: 90%;
     height: 400px;
-    background-image: url("../images/hamilton-logo.jpeg");
+    background-image: url("../flowerbackground.jpg");
     background-size: cover;
     background-position: top;
     margin: 30px auto;
@@ -81,7 +81,7 @@
   }
   
   .mission-text {
-    background-color: hsl(0, 0%, 11%);
+    background-color:hsl(343deg 100% 94%);
     margin: auto;
     padding: .75rem 10rem;
     font-size: 32px;
@@ -110,7 +110,7 @@
     border-radius: 32px;
     align-items: center;
     justify-content: center;
-    background-color: hsl(0, 30%, 21%);
+    background-color: hsl(337deg 29% 36%);
   }
 
   /* .project-container a {
@@ -167,7 +167,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-color: hsl(0, 30%, 21%);
+    background-color: #d1c8ca;
   }
 
   .item-border p {
@@ -179,40 +179,8 @@
     /* padding-top: 2rem; */
   }
 
-  /* Locations
-  .background-location {
-    width: 90%;
-    height: 500px;
-    background-image: url("../images/hamilton-logo.jpeg");
-    background-size: cover;
-    background-position: center;
-    opacity: 0.8;
-    margin: 30px auto;
-    padding: 30px 0;
-    display: block;
-    align-items: center;
-    justify-content: center;
-  } 
-  
-  .location-title {
-    display: block;
-    text-align: center;
-    padding: 15px;
-  }
-  
-  .location-card {
-    width: 300px;
-    height: 250px;
-    background-color: black;
-    display: inline-flex;
-    flex-flow: row wrap;
-    padding: 20px;
-    margin-right: 40px;
-    justify-content: center;
-    align-content: space-around;
-    line-height: 1.9;
-  }
-  
+
+ 
   .location-card:last-child {
     margin-right: 0;
   }
@@ -240,4 +208,4 @@
     text-align: left;
     padding-left: 20px;
   }
-   */
+  
